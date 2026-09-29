@@ -1,0 +1,6 @@
+{
+  "name": "RoboKraft - Robotics Components & Kits",
+  "description": "Comprehensive robotics components catalog, Arduino boards, cables, kits, and live direct chat with owner Mallick Akkah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
